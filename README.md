@@ -4,7 +4,9 @@ An over-the-top phishing prank to use with [Evilginx](https://github.com/kgretzk
 
 I made it for April Fools 2025 to bring back memories of the times when hacking was done for fun!
 
-**[Evilginx Pro](https://evilginx.com) has been released! Find out [more](https://evilginx.com)**
+**[Evilginx Pro](https://evilginx.com) has finally been released! Find out [more](https://evilginx.com)**!
+
+**Learn how to use Evilginx and how to create your own phishlets with the [Evilginx Mastery](https://academy.breakdev.org/evilginx-mastery) course!**
 
 ## DEMO
 
