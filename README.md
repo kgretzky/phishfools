@@ -10,6 +10,8 @@ I made it for April Fools 2025 to bring back memories of the times when hacking 
 
 Double-click the [index.html](index.html) file to see the prank in action.
 
+![](demo.gif)
+
 ## How to use?
 
 The only thing, which needs injecting into the website is the [phishfools.js](phishfools.js) script. You can use the `js_inject` functionality of Evilginx to inject the script into the reverse proxied phishing page you set up.
